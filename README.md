@@ -5,6 +5,8 @@ test
 
 # remote update
 
+\\ testing conflicts\\
+
 # new branch "nimo" 
 
 # added
